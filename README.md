@@ -11,23 +11,20 @@ This project is a clone of the network tab of browser developer tools, built usi
 
 ## Installation
 
+### Live Link:
+  <a href="https://devtools-clone.vercel.app/"> Live Link </a>
+
 1. Clone the repository:
     ```bash
     git clone https://github.com/Sakil9051/devtools-clone.git
     cd devtools-clone
     ```
-
-2. Live Link:
-    ```bash
-  <a href="https://devtools-clone.vercel.app/"> Live Link </a>
-    ```
-
-3. Install dependencies:
+2. Install dependencies:
     ```bash
     npm install
     ```
 
-4. Start the development server:
+3. Start the development server:
     ```bash
     npm run dev
     ```
