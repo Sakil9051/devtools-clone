@@ -19,7 +19,7 @@ This project is a clone of the network tab of browser developer tools, built usi
 
 2. Live Link:
     ```bash
-    npm install
+    https://devtools-clone.vercel.app/
     ```
 
 3. Install dependencies:
@@ -125,13 +125,6 @@ const requests = [
 - **TailwindCSS**: A utility-first CSS framework for rapid UI development.
 - **Vite**: A fast build tool for modern web projects.
 
-## Contributing
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/your-feature`).
-3. Commit your changes (`git commit -am 'Add some feature'`).
-4. Push to the branch (`git push origin feature/your-feature`).
-5. Open a pull request.
 
 ## License
 
