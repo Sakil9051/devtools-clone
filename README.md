@@ -19,7 +19,7 @@ This project is a clone of the network tab of browser developer tools, built usi
 
 2. Live Link:
     ```bash
-    https://devtools-clone.vercel.app/
+  <a href="https://devtools-clone.vercel.app/"> Live Link </a>
     ```
 
 3. Install dependencies:
